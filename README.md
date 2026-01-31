@@ -5,7 +5,7 @@ This script lets you select any part of the screen, extracts text using Tesserac
 
 ---
 ## GitAds Sponsored
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=emonbhuiyan/screenshot-ocr@github)](https://gitads.dev/v1/ad-track?source=emonbhuiyan/screenshot-ocr@github)
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=emonbhuiyan/screenshot-ocr-linux@github)](https://gitads.dev/v1/ad-track?source=emonbhuiyan/screenshot-ocr-linux@github)
 
 ---
 
