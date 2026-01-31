@@ -45,4 +45,4 @@ chmod +x ~/screenshot-ocr.sh
 
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
-<!-- GitAds-Verify: GIJUYP7SJO8CZYSLKX6OL74VRETEV34B -->
+<!-- GitAds-Verify: BXTRU9MOM7JVS1E9SDI6OSR4O8NX6ZB7 -->
