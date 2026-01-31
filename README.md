@@ -2,7 +2,10 @@
 
 📸 **Instantly extract text from screenshots in Ubuntu, just like Windows PowerToys!**  
 This script lets you select any part of the screen, extracts text using Tesseract OCR, and automatically copies it to your clipboard.
-
+---
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=emonbhuiyan/screenshot-ocr@github)](https://gitads.dev/v1/ad-track?source=emonbhuiyan/screenshot-ocr@github)
+---
 ## 🔥 Features
 ✅ Take a screenshot and extract text instantly  
 ✅ Auto-copy extracted text to clipboard  
