@@ -25,7 +25,7 @@ sudo apt update && sudo apt install flameshot tesseract-ocr ocrmypdf xclip -y
 ```
 mkdir -p ~/.local/share/ScreenShotOCR
 wget -O ~/.local/share/ScreenShotOCR/screenshot-ocr.sh https://raw.githubusercontent.com/emonbhuiyan/Screenshot-Ocr/main/screenshot-ocr.sh
-chmod +x ~/screenshot-ocr.sh
+chmod +x ~/.local/share/ScreenShotOCR/screenshot-ocr.sh
 ```
 
 ## 🚀 Usage
