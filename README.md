@@ -1,4 +1,4 @@
-# Screenshot OCR for Ubuntu
+# Screenshot OCR for Ubuntu and Other Debian Based Linux
 
 📸 **Instantly extract text from screenshots in Ubuntu, just like Windows PowerToys!**  
 This script lets you select any part of the screen, extracts text using Tesseract OCR, and automatically copies it to your clipboard.
@@ -23,8 +23,9 @@ sudo apt update && sudo apt install flameshot tesseract-ocr ocrmypdf xclip -y
 
 2. **Download the script**:
 ```
-wget -O ~/screenshot-ocr.sh https://raw.githubusercontent.com/emonbhuiyan/Screenshot-Ocr/main/screenshot-ocr.sh
-chmod +x ~/screenshot-ocr.sh
+mkdir -p ~/.local/share/ScreenShotOCR
+wget -O ~/.local/share/ScreenShotOCR/screenshot-ocr.sh https://raw.githubusercontent.com/emonbhuiyan/Screenshot-Ocr/main/screenshot-ocr.sh
+chmod +x ~/.local/share/ScreenShotOCR/screenshot-ocr.sh
 ```
 
 ## 🚀 Usage
@@ -39,7 +40,7 @@ chmod +x ~/screenshot-ocr.sh
 - Name: **"Text Extractor"**
 - Command:
 ```
-/home/YOUR_USERNAME/screenshot-ocr.sh
+/home/YOUR_USERNAME/.local/share/ScreenShotOCR/screenshot-ocr.sh
 ```
 - Set a shortcut (Example: `Super + Shift + T`)
 
